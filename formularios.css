@@ -1,0 +1,28 @@
+body{
+    overflow: hidden;
+}
+video{
+position: absolute;
+width: 100%;
+height: 100%;
+object-fit: cover;
+top: 0;
+left: 0;
+z-index: -1;
+}
+#icono{
+
+    height: 120px;
+    border-radius: 100%;
+    margin-top: 5px;
+}
+#campo1{
+    text-align:center
+}
+#boton{
+    text-align: center;
+}
+#borde{
+
+    border-style: groove;
+}
